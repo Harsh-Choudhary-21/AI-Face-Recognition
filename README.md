@@ -1,6 +1,5 @@
 # AI-Face-Recognition
 An AI Face recognition system built in Python and Firebase used as a Database.
-
 File reducer: https://www.reduceimages.com/
 reduce size (216,216)
 Step 1:
@@ -15,7 +14,7 @@ Step 5:
 #Finally run the Main_Code, It should run, Incase of errors:
 	Refer to this link:
 		https://youtu.be/iBomaK2ARyI
-		(Reference Code, You can easily edit the code with the help of this small lecture)
+		
 
 ##############
 IMPORTANT!!
